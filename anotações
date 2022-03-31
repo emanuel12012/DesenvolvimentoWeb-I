@@ -1,0 +1,18 @@
+instalar pacote babel->            npm i babel-jest @babel/preset-env 
+no terminal VsCode ou Terminal Linux
+
+
+criar arquivo babel.config.js com o conteúdo:module.exports= { presets: ['@babel/preset-env']}
+
+adicionar import 
+
+
+
+se não ter node_nodules fazer npm install que ele ira verificar os arquivos necessários para o projeto
+
+
+-----
+
+biblioteca 
+
+Math.sqrt(25)       <-dica
